@@ -1,0 +1,20 @@
+2024-01-01,London,25,Cloudy
+2024-01-02,New York,1,Rainy
+2024-01-03,Tokyo,15,Foggy
+2024-01-04,Paris,31,Rainy
+2024-01-05,Berlin,30,Stormy
+2024-01-06,Sydney,20,Stormy
+2024-01-07,Toronto,10,Rainy
+2024-01-08,Dubai,5,Cloudy
+2024-01-09,Rome,30,Snowy
+2024-01-10,Delhi,10,Cloudy
+2024-01-11,Beijing,0,Stormy
+2024-01-12,Moscow,16,Foggy
+2024-01-13,Rio,-1,Stormy
+2024-01-14,Madrid,-2,Cloudy
+2024-01-15,Bangkok,5,Snowy
+2024-01-16,Chicago,-5,Rainy
+2024-01-17,Istanbul,0,Sunny
+2024-01-18,Seoul,-1,Cloudy
+2024-01-19,Mexico City,20,Windy
+2024-01-20,Cape Town,10,Stormy
